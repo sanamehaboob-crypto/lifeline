@@ -68,3 +68,6 @@ lifeline-project/
 - 🔐 JWT-authenticated admin panel
 - 🗺️ Interactive Leaflet maps with dark theme
 - 📱 Fully responsive design
+
+  Team Members : Sana,Sruthi,Tejaswi
+  
